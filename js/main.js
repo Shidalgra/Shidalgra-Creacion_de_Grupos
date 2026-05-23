@@ -1,7 +1,7 @@
 // ==========================
 // CONFIGURACIÓN FIREBASE
 // ==========================
-const CODIGO_ADMIN = "ADMINSHIDALGRA2026";
+const CODIGO_ADMIN = "Shoudymella1986*";
 
 // NUEVA CONFIGURACIÓN DE CURSOS Y CLAVES
 // Aquí se definen los cursos que aparecerán en el login y su clave de acceso.
